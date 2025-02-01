@@ -18,7 +18,6 @@ export default function Workflows() {
             </div>
             <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,theme(colors.gray.200),theme(colors.indigo.200),theme(colors.gray.50),theme(colors.indigo.300),theme(colors.gray.200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-3xl font-semibold text-transparent md:text-4xl"></h2>
             <p className="text-lg text-indigo-200/65">
-              Simple and elegant interface to start collaborating with your team
               Secure & Efficient Transactions Buy and Sell with Confidence
               Leverage AI and blockchain technology for secure, transparent, and
               fraud-free transactions in a seamless marketplace experience.
